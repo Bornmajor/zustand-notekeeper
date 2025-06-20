@@ -56,15 +56,18 @@ This command will move the starter code to the **app-example** directory and cre
 ## Screenshots
 # Onboarding
 
+<img src="https://github.com/user-attachments/assets/07cdb781-e5fc-42c4-9104-4b198f64423e"  width="200"> 
+<img src="https://github.com/user-attachments/assets/683d6d2d-8ef6-4739-af23-e186a20a39fb"  width="200"> 
+<img src="https://github.com/user-attachments/assets/b8d0bcde-3d28-4da6-a271-aec733c43c93"  width="200"> 
+
+# Home
 <img src="https://github.com/user-attachments/assets/97aa3710-8c24-4f4a-b88f-3322debff01c"  width="200"> 
 <img src="https://github.com/user-attachments/assets/bdf68630-a677-4556-be2b-8ffe58cd1b5b"  width="200"> 
 <img src="https://github.com/user-attachments/assets/f7788813-a091-4133-8252-f46f975bf9be"  width="200"> 
-<img src="https://github.com/user-attachments/assets/d53d425f-298a-46a3-8656-65f27d7fec4c"  width="200"> 
 
-# Home
 
 # Create note
-
+<img src="https://github.com/user-attachments/assets/d53d425f-298a-46a3-8656-65f27d7fec4c"  width="200"> 
 
 ## Learn more
 
